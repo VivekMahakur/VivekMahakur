@@ -78,7 +78,7 @@
 - Responsive UI  
 - SQL database structure  
 
-🔗 **Repo:** https://github.com/VivekMahakur/InventoryManagementSystem
+🔗 **Repo:** https://github.com/VivekMahakur/Inventory_management.git
 
 </td>
 </tr>
