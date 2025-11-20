@@ -10,7 +10,7 @@
 
 <!-- Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;Django+%7C+SQL+%7C+Web+Apps;Building+Clean+%2B+Functional+Software;Learning+Daily+%2C+Growing+Daily;From+Western+Odisha+%E2%86%92+Tech+Industry"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;Django+%7C+SQL+%7C+Web+Apps;Building+Clean+%2B+Functional+Software;Learning+Daily+%2C+Growing+Daily;"/>
 </p>
 
 <!-- Quick Links / Status Row -->
