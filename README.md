@@ -5,7 +5,7 @@
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Anshuman%20Rath&fontSize=60&fontAlignY=38&color=0:00F0FF,100:7A00FF&fontColor=0D1117&animation=twinkling&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Community%20Builder&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Vivek%20Mahakur&fontSize=60&fontAlignY=38&color=0:00F0FF,100:7A00FF&fontColor=0D1117&animation=twinkling&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Community%20Builder&descAlignY=60&descSize=18"/>
 </p>
 
 <!-- Typing Heading -->
