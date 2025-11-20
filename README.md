@@ -1,16 +1,16 @@
 <!-- =========================================================
-   ⚡ VIVEK MAHAKUR — FUTURISTIC / CYBER READMe (Neon Matrix)
+   ⚡ VIVEK MAHAKUR — FUTURISTIC / CYBER README (Neon Matrix)
    Repo: https://github.com/VivekMahakur/VivekMahakur
    ========================================================== -->
 
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Vivek%20Mahakur&fontSize=60&fontAlignY=38&color=0:00F0FF,100:7A00FF&fontColor=0D1117&animation=twinkling&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Community%20Builder&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Vivek%20Mahakur&fontSize=60&fontAlignY=38&color=0:00F0FF,100:7A00FF&fontColor=0D1117&animation=twinkling&desc=Python%20%7C%20Java%20%7C%20Django%20Developer&descAlignY=60&descSize=18"/>
 </p>
 
 <!-- Typing Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Building+the+Future+with+Code;Full+Stack+%7C+DevOps+%7C+Cloud;Automate.+Scale.+Ship.;Western+Odisha+%E2%86%92+Global+Tech+Hub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=600&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer;Django+%7C+SQL+%7C+Web+Apps;Building+Clean+%2B+Functional+Software;Learning+Daily+%2C+Growing+Daily;From+Western+Odisha+%E2%86%92+Tech+Industry"/>
 </p>
 
 <!-- Quick Links / Status Row -->
@@ -24,45 +24,69 @@
 ---
 
 ## 🧬 About Me
-> Dreaming • Learning • Shipping — turning ideas into durable systems.
+> Motivated Computer Science undergraduate building real-world web applications using Django & SQL.
 
-- 🎓 **BCA** — Centurion University  
-- 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
-- 🧭 Focus: **Full-Stack** (Django/React) • **DevOps** (Docker, CI/CD) • **Cloud** (AWS)  
-- 🛰️ Mission: Build a **developer community** & transform **Western Odisha** into a **tech hub**.  
+- 🎓 **B.Tech CSE (2022–2026)** — ITER, SOA University  
+- 💡 Strong foundation in **Python, Java, SQL, Django**  
+- 🛠️ Experience building **Inventory Systems & E-Commerce Admin Panels**  
+- 🤝 Team player with a strong learning mindset  
+- 🌱 Currently improving: **DBMS**, **DSA**, **UI/UX basics**, **clean architecture**
 
 ---
 
 ## 🧠 Skills Matrix
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=EA2D2E">
-  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF">
   <br/>
   <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=00C4CC">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26">
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6">
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8C52FF">
   <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=00F0FF">
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/Cloudflare-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020">
-  <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=fff">
-  <img src="https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&logoColor=00F0FF">
-  <img src="https://img.shields.io/badge/Hostinger-0D1117?style=for-the-badge&logo=hostinger&logoColor=8C52FF">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF">
 </p>
 
 ---
 
-## 🧪 Live Telemetry (Auto Widgets)
+## 🚀 Flagship Projects
+> Projects directly matching your resume.
 
+<table>
+<tr>
+<td width="50%">
+
+### **CocoMatik – E-Commerce Admin Panel**  
+`Django` · `HTML` · `CSS` · `Bootstrap` · `SQL`  
+- Product, order & shipment management  
+- CRUD operations for inventory  
+- Clean responsive admin UI  
+- SQL-integrated functionalities  
+
+🔗 **Repo:** https://github.com/VivekMahakur/CocoMatik
+
+</td>
+
+<td width="50%">
+
+### **Inventory Management System**  
+`Django` · `Bootstrap` · `SQL`  
+- Role-based login (Admin/User)  
+- Add / Edit / Delete product inventory  
+- Responsive UI  
+- SQL database structure  
+
+🔗 **Repo:** https://github.com/VivekMahakur/InventoryManagementSystem
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧪 GitHub Activity Snapshot
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekMahakur&bg_color=0D1117&color=00F0FF&line=7A00FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 </p>
@@ -72,90 +96,26 @@
   <img src="https://streak-stats.demolab.com?user=VivekMahakur&theme=react&hide_border=true&ring=00F0FF&fire=7A00FF&currStreakLabel=00F0FF" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekMahakur&layout=compact&theme=react&bg_color=0D1117&hide_border=true&title_color=00F0FF" width="45%"/>
-</p>
+---
+
+## 🔭 What I'm Learning Now
+- Strengthening **DSA fundamentals**  
+- Improving **UI/UX skills** for better interfaces  
+- Deepening knowledge of **SQL & DBMS**  
+- Exploring advanced **Django patterns**  
 
 ---
 
-## 🚀 Flagship Projects
-> Hand-picked builds that represent how I design systems.
-
-<table>
-<tr>
-<td width="50%">
-
-**CocoMatik**  
-<sub>Modular e-commerce backend with Shiprocket integration and order snapshots.</sub>  
-
-`Django` · `DRF` · `PostgreSQL` · `Docker` · `Nginx`  
-[▶ Repo](https://github.com/VivekMahakur/CocoMatik)
-
-</td>
-<td width="50%">
-
-**Flind**  
-<sub>File sender API + business registry with secure auth & shareable links.</sub>  
-
-`Django REST` · `JWT` · `Railway` · `Cloudflare`  
-[▶ Repo](https://github.com/VivekMahakur/Flind)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**Movie Recommender**  
-<sub>Personalized recommendations. Clean UI + simple ML pipelines.</sub>  
-
-`Python` · `Pandas` · `Streamlit`  
-[▶ Repo](https://github.com/VivekMahakur/Movie-Recommender)
-
-</td>
-<td width="50%">
-
-**Face Metrics**  
-<sub>Facial emotion dashboard with real-time inference.</sub>  
-
-`OpenCV` · `TensorFlow` · `Flask`  
-[▶ Repo](https://github.com/VivekMahakur/Face-Metrics)
-
-</td>
-</tr>
-</table>
+## 🗺️ Roadmap 2025 – 2026
+- [ ] Build 3–4 production-ready Django apps  
+- [ ] Learn REST APIs with DRF  
+- [ ] Strengthen DSA for placements  
+- [ ] Improve UI/UX for cleaner UIs  
+- [ ] Master SQL query optimization  
 
 ---
 
-## 🛰️ Metrics Dashboard 
-<p align="center">
-  <img src="./metrics.svg" width="90%"/>
-</p>
-
----
-
-## 🐍 Contribution Snake 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VivekMahakur/VivekMahakur/output/snake.svg" alt="snake"/>
-</p>
-
----
-
-## 🔭 What I'm Exploring Now
-- **Docker + Nginx + Gunicorn** production patterns for Django  
-- **AWS** (EC2, S3, Route 53, CloudFront) with **Cloudflare**  
-- **Elasticsearch** search UX for product discovery  
-- **Flutter** for micro-frontends + mobile integration  
-
----
-
-## 🗺️ Roadmap 2025 → 2026
-- [ ] Cloud-ready **microservices** with Django + DRF  
-- [ ] **CI/CD** blue-green deploys (GitHub Actions + Terraform)  
-- [ ] Public **DevOps boilerplates** for Django/React  
-
----
-
-## 🤝 Connect
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/vivek-mahakur-a79b672a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/VivekMahakur" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=0ff"/></a>
@@ -164,14 +124,6 @@
 
 ---
 
-<!-- Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F0FF,100:7A00FF"/>
 </p>
-
-<!--
-Setup Notes:
-1️⃣ Repo must be named exactly: VivekMahakur/VivekMahakur
-2️⃣ Enable Metrics & Snake Actions per setup guide.
-3️⃣ Theme colors: cyan (00F0FF) + violet (7A00FF) on dark (0D1117).
--->
