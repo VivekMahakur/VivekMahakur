@@ -93,7 +93,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VivekMahakur&show_icons=true&hide_border=true&theme=react&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=VivekMahakur&theme=react&hide_border=true&ring=00F0FF&fire=7A00FF&currStreakLabel=00F0FF" width="49%"/>
+  <!-- <img src="https://streak-stats.demolab.com?user=VivekMahakur&theme=react&hide_border=true&ring=00F0FF&fire=7A00FF&currStreakLabel=00F0FF" width="49%"/> -->
+</p>
+
+---
+
+## 🛰️ Metrics Dashboard 
+<p align="center">
+  <img src="./metrics.svg" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VivekMahakur/VivekMahakur/output/snake.svg" alt="snake"/>
 </p>
 
 ---
