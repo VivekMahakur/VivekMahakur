@@ -52,7 +52,7 @@
 ---
 
 ## 🚀 Flagship Projects
-> Projects directly matching your resume.
+> Projects.
 
 <table>
 <tr>
